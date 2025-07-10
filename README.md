@@ -13,4 +13,4 @@ Para la construcción de esta web, se utilizaron principalmente las siguientes h
 
 Esta combinación nos permitió crear un sitio web con características similares a Behance, enfocado en servicios de diseño y desarrollo web, incluyendo una página de aterrizaje (landing page).
 
-Tesio nicola 
+Tesio Nicola 
